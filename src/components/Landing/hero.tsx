@@ -105,7 +105,7 @@ Watch Tutorial
                   borderRadius: '15px',
                   color: '#0068FD'
               }}
-              onClick={() => window.open('https://bitescrow.dev', '_blank')}
+              onClick={() => window.open('https://https://4g0r4.github.io/escrow-docs/', '_blank')}
             >
   Watch Tutorial
             </Button>

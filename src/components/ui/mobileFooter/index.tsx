@@ -70,7 +70,7 @@ const MobileFooterComponent = () => {
             <ActionIcon
                 style={{borderRadius: '10px', backgroundColor: '#0068FD'}}                
                 component="a"
-                href="https://BitEscrow.dev"
+                href="https://https://4g0r4.github.io/escrow-docs/"
                 target="_blank"
                 rel="noopener noreferrer"
                 variant="subtle"
@@ -97,7 +97,7 @@ const MobileFooterComponent = () => {
             </ActionIcon> */}
         </Group>
           <Text c='dimmed' size='xs' pt={15} style={{textAlign: 'center'}}>
-&copy; Talaria Software, Inc. {currentYear} | BitEscrow Beta Version 1.0
+&copy; AGORA Software, Inc. {currentYear} | BitEscrow Beta Version 1.0
         </Text>
     </footer>
   );

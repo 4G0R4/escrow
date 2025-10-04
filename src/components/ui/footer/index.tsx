@@ -22,7 +22,7 @@ const FooterComponent = () => {
             <a href="https://bitescrow.app/bug" style={{ textDecoration: 'none' }}>
             <Text c="dimmed" size="sm">Bug Report</Text>
             </a>
-            <a href="https://plausible.io/playground.bitescrow.app" style={{ textDecoration: 'none' }}>
+            <a href="#" style={{ textDecoration: 'none' }}>
             <Text c="dimmed" size="sm">Analytics</Text>
             </a>
         </Group>
