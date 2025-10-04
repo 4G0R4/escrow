@@ -73,7 +73,7 @@ export default function Header(props : Props) {
         <ActionIcon
           style={{borderRadius: '10px', backgroundColor: '#5765f2'}}                
           component="a"
-          href="https://discord.gg/GEZJJYteyB"
+          href="https://stacker.news/items/1248555/r/AGORA"
           target="_blank"
           rel="noopener noreferrer"
           variant="subtle"
@@ -85,7 +85,7 @@ export default function Header(props : Props) {
         <ActionIcon
             style={{borderRadius: '10px', backgroundColor: '#2D2D2D'}}                
             component="a"
-            href="https://github.com/BitEscrow"
+            href="https://github.com/4G0R4/escrow/"
             target="_blank"
             rel="noopener noreferrer"
             size="lg"
