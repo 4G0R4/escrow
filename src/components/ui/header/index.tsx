@@ -108,7 +108,7 @@ export default function Header(props : Props) {
         <ActionIcon
             style={{borderRadius: '10px', backgroundColor: '#0068FD'}}                
             component="a"
-            href="https://https://4g0r4.github.io/escrow-docs/"
+            href="https://4g0r4.github.io/escrow-docs/"
             target="_blank"
             rel="noopener noreferrer"
             variant="subtle"

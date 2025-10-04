@@ -44,7 +44,7 @@ export default function Docs() {
                   borderRadius: '15px',
                   color: '#0068FD'
               }}
-              onClick={() => window.open('https://https://4g0r4.github.io/escrow-docs/', '_blank')}
+              onClick={() => window.open('https://4g0r4.github.io/escrow-docs/', '_blank')}
           >
 Read The Docs
           </Button>
@@ -83,7 +83,7 @@ Read The Docs
                 borderRadius: '15px',
                 color: '#0068FD'
             }}
-            onClick={() => window.open('https://https://4g0r4.github.io/escrow-docs/', '_blank')}
+            onClick={() => window.open('https://4g0r4.github.io/escrow-docs/', '_blank')}
           >
 Read The Docs
           </Button>
