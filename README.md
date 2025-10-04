@@ -2,7 +2,8 @@
 
 View the live demo:
 
-https://playground.bitescrow.app
+- https://bitescrow.vercel.app
+- https://playground.bitescrow.app
 
 Deploy your own:
 
